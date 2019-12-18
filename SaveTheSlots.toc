@@ -1,0 +1,8 @@
+## Interface: 11303
+## Title: SaveTheSlots
+## Notes: Displays a warning during raid when a useless spell taking up a debuff slot is used
+## Author: Wromthrax
+## Version: 0.1
+## SavedVariablesPerCharacter: STS_ENABLED
+
+SaveTheSlots.lua
