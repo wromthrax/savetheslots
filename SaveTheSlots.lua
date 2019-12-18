@@ -21,10 +21,12 @@ STS_BAD_SPELLS = {
 -- Messages to use
 STS_MESSAGES = {
 	"%s just used %s, why are you being a pleb?",
-	"%s just used %s, do you know this is Classic WoW?",
-	"%s just used %s, why don't you care for the slots?!",
-	"%s just used %s, what are you doing...",
-	"%s just used %s, look at that noob."
+	"%s has used %s on a raid boss, do you know this is classic WoW?",
+	"Thoughtless %s has just used %s, why don't you care for the slots?!",
+	"OMG, %s has used %s, what are you doing...",
+	"%s just used %s, look at that noob.",
+	"%s used %s and likely removed a useful debuff, what do we do?!",
+	"Oh no, %s casted %s, a useful debuff cries somewhere in the corner..."
 }
 
 -- Frame to register events
